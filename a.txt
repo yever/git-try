@@ -1,5 +1,3 @@
 Hello, I am the first file called a.txt
 
-Master change on a.txt
-
 I add some stuff here
