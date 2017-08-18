@@ -2,4 +2,3 @@ Hello, I am b.txt
 
 more stuff
 
-Something on b
